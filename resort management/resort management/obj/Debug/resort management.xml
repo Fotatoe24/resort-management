@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+resort management
+</name>
+</assembly>
+<members>
+<member name="T:resort_management.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources._360_F_836184489_cfMhQdClJd7SBQ6n2CSsh8UI7SnAX1gp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources._82d0f633_ae6b_448d_b123_a2bba19b5cc2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources._8f6dde35a588e10e3e215f9922e2bd7e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.account_box_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.add_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.arrow_downward_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.arrow_forward_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.arrow_left_alt_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.arrow_upward_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.bar_chart_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.bedroom_parent_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.cancel_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.cb1d0c45649cce9c6a908750f81e1cdb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.concierge_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.crysttal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.delete_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.edit_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.event_upcoming_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.excel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.inventory_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.logout_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.menu_book_2_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.person_add_70dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.point_of_sale_100dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.point_of_sale_200dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.print_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.receipt_200dp_000000_FILL1_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.reception">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.save_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.search_90dp_000000_FILL0_wght400_GRAD0_opsz48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resort_management.My.Resources.Resources.swimming_pool_at_a_tropical_resort">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
